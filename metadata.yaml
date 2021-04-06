@@ -10,12 +10,17 @@ contributor:
     deathdate: 1992
     gutenberg_agent_id: '34265'
     url: http://www.gutenberg.org/2009/agents/34265
+covers:
+- cover_type: archival
+  image_path: 64968-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, John Massie
     gutenberg_agent_id: '53119'
     url: http://www.gutenberg.org/2009/agents/53119
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64968#Combatman
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:
