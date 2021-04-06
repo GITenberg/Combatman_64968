@@ -1,0 +1,35 @@
+_repo: Combatman_64968
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Bill
+    - Terry, Willis E.
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Davis, John Massie
+    gutenberg_agent_id: '53119'
+    url: http://www.gutenberg.org/2009/agents/53119
+description: ''
+gutenberg_issued: '2021-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Combatman
+url: http://www.gutenberg.org/ebooks/64968
